@@ -1,7 +1,7 @@
 
 Project Title: Amazon Reviews Project - Deep Learning and Data Analysis
-Author: [Your Name]
-Date: [Insert Date]
+Author: Haroun Grine
+
 
 Project Overview:
 This project focuses on analyzing customer reviews from Amazon to extract insights, perform data quality checks, and implement predictive models using machine learning and deep learning techniques. The main goals of the project include:
