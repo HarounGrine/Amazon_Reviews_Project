@@ -1,5 +1,5 @@
 
-Project Title: Amazon Reviews Project - Deep Learning and Data Analysis
+Project Title: Customer Reviews Analysis - Deep Learning and Data Analysis
 Author: Haroun Grine
 
 
