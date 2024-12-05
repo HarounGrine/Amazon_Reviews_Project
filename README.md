@@ -4,7 +4,7 @@ Author: Haroun Grine
 
 
 Project Overview:
-This project focuses on analyzing customer reviews from Amazon to extract insights, perform data quality checks, and implement predictive models using machine learning and deep learning techniques. The main goals of the project include:
+This project focuses on analyzing customer reviews  to extract insights, perform data quality checks, and implement predictive models using machine learning and deep learning techniques. The main goals of the project include:
 - Cleaning and preprocessing the review dataset for analysis.
 - Performing exploratory data analysis (EDA) to uncover trends and patterns in the data.
 - Building and evaluating models for sentiment analysis and review scoring.
